@@ -1,0 +1,1001 @@
+Lead_ID,Company_Size,Lead_Source,Deal_Value_USD,Days_In_Pipeline,Follow_Up_Calls,Emails_Sent,Decision_Maker_Engaged,Status
+LD-1000,Mid-Market,Inbound Demo,27500.0,42,6,19,1,Won
+LD-1001,Startup,Partner Referral,5400.0,65,3,9,0,Won
+LD-1002,Enterprise,Inbound Demo,104800.0,7,0,9,1,Lost
+LD-1003,Startup,Inbound Demo,4400.0,30,2,2,1,Lost
+LD-1004,Startup,Inbound Demo,5100.0,16,3,12,0,Lost
+LD-1005,Mid-Market,Inbound Demo,22000.0,63,5,8,1,Won
+LD-1006,Enterprise,Inbound Demo,99700.0,23,7,5,0,Lost
+LD-1007,Mid-Market,Cold Outbound,38900.0,68,5,16,1,Lost
+LD-1008,Enterprise,Cold Outbound,97700.0,38,0,8,1,Lost
+LD-1009,Startup,Partner Referral,3000.0,27,1,12,0,Lost
+LD-1010,Enterprise,Partner Referral,86500.0,57,8,16,1,Lost
+LD-1011,Enterprise,Cold Outbound,95900.0,32,0,17,1,Won
+LD-1012,Enterprise,Cold Outbound,77900.0,21,7,18,0,Lost
+LD-1013,Mid-Market,Partner Referral,19800.0,43,7,15,1,Won
+LD-1014,Startup,Inbound Demo,4900.0,76,0,16,1,Won
+LD-1015,Startup,Inbound Demo,2900.0,65,7,12,1,Won
+LD-1016,Mid-Market,Cold Outbound,32400.0,34,2,9,1,Lost
+LD-1017,Startup,Inbound Demo,5800.0,68,5,13,0,Won
+LD-1018,Mid-Market,Cold Outbound,25500.0,64,2,10,1,Won
+LD-1019,Mid-Market,Inbound Demo,31400.0,39,0,13,1,Won
+LD-1020,Enterprise,Cold Outbound,93100.0,28,4,14,1,Won
+LD-1021,Mid-Market,Partner Referral,20300.0,73,4,3,0,Won
+LD-1022,Startup,Inbound Demo,5100.0,94,4,13,1,Won
+LD-1023,Startup,Inbound Demo,5500.0,44,7,6,0,Lost
+LD-1024,Enterprise,Cold Outbound,115800.0,26,9,4,0,Lost
+LD-1025,Startup,Webinar,3700.0,46,3,16,1,Won
+LD-1026,Startup,Inbound Demo,5100.0,34,0,12,1,Lost
+LD-1027,Startup,Cold Outbound,5800.0,26,6,11,0,Won
+LD-1028,Startup,Inbound Demo,3800.0,38,7,5,0,Lost
+LD-1029,Mid-Market,Inbound Demo,31800.0,95,4,10,1,Lost
+LD-1030,Startup,Cold Outbound,5400.0,60,1,5,0,Lost
+LD-1031,Mid-Market,Inbound Demo,28100.0,69,5,16,1,Won
+LD-1032,Enterprise,Cold Outbound,105900.0,30,10,14,0,Lost
+LD-1033,Enterprise,Inbound Demo,114700.0,25,2,6,0,Lost
+LD-1034,Mid-Market,Cold Outbound,29800.0,53,7,21,1,Won
+LD-1035,Mid-Market,Inbound Demo,18200.0,29,7,10,1,Lost
+LD-1036,Mid-Market,Webinar,25100.0,74,4,25,0,Won
+LD-1037,Startup,Cold Outbound,3600.0,64,5,11,1,Won
+LD-1038,Enterprise,Partner Referral,95500.0,59,6,11,1,Lost
+LD-1039,Mid-Market,Cold Outbound,22700.0,60,8,10,1,Won
+LD-1040,Mid-Market,Cold Outbound,26100.0,20,5,13,0,Lost
+LD-1041,Mid-Market,Inbound Demo,26200.0,28,8,12,1,Lost
+LD-1042,Startup,Webinar,6600.0,66,0,7,0,Lost
+LD-1043,Enterprise,Cold Outbound,106100.0,50,5,16,1,Won
+LD-1044,Enterprise,Webinar,111400.0,67,7,15,1,Lost
+LD-1045,Mid-Market,Inbound Demo,19200.0,14,5,7,0,Won
+LD-1046,Mid-Market,Inbound Demo,36600.0,7,7,3,1,Won
+LD-1047,Mid-Market,Inbound Demo,20500.0,38,9,12,0,Won
+LD-1048,Mid-Market,Inbound Demo,21300.0,49,5,8,1,Won
+LD-1049,Mid-Market,Inbound Demo,31800.0,61,5,14,1,Won
+LD-1050,Enterprise,Cold Outbound,86800.0,62,2,11,1,Won
+LD-1051,Mid-Market,Inbound Demo,21100.0,78,3,10,1,Won
+LD-1052,Startup,Cold Outbound,7600.0,53,1,16,1,Lost
+LD-1053,Startup,Inbound Demo,5600.0,78,1,21,0,Lost
+LD-1054,Startup,Webinar,6900.0,30,6,15,0,Lost
+LD-1055,Startup,Inbound Demo,5000.0,26,1,11,0,Lost
+LD-1056,Startup,Inbound Demo,7400.0,16,3,12,0,Lost
+LD-1057,Mid-Market,Cold Outbound,25300.0,91,6,16,0,Lost
+LD-1058,Enterprise,Inbound Demo,104000.0,32,5,10,1,Lost
+LD-1059,Mid-Market,Cold Outbound,15500.0,70,3,22,1,Lost
+LD-1060,Mid-Market,Cold Outbound,24200.0,56,5,8,0,Won
+LD-1061,Startup,Cold Outbound,6300.0,35,3,10,1,Lost
+LD-1062,Enterprise,Inbound Demo,118000.0,51,7,15,1,Won
+LD-1063,Mid-Market,Cold Outbound,27800.0,30,0,5,1,Lost
+LD-1064,Startup,Webinar,5800.0,40,4,17,1,Lost
+LD-1065,Enterprise,Cold Outbound,91800.0,50,5,16,1,Lost
+LD-1066,Enterprise,Partner Referral,113600.0,38,5,11,0,Lost
+LD-1067,Enterprise,Partner Referral,138200.0,66,0,9,1,Won
+LD-1068,Mid-Market,Inbound Demo,30800.0,60,6,15,1,Won
+LD-1069,Startup,Cold Outbound,4000.0,44,0,20,0,Lost
+LD-1070,Startup,Partner Referral,3800.0,38,6,9,1,Won
+LD-1071,Mid-Market,Webinar,22800.0,49,6,16,0,Won
+LD-1072,Mid-Market,Partner Referral,17800.0,16,2,10,1,Lost
+LD-1073,Startup,Webinar,1900.0,76,4,11,1,Won
+LD-1074,Mid-Market,Partner Referral,26600.0,28,6,19,1,Lost
+LD-1075,Mid-Market,Cold Outbound,17800.0,28,3,14,0,Lost
+LD-1076,Startup,Webinar,5300.0,45,5,8,1,Lost
+LD-1077,Startup,Cold Outbound,8400.0,53,3,21,0,Lost
+LD-1078,Startup,Inbound Demo,6300.0,48,11,7,0,Lost
+LD-1079,Startup,Cold Outbound,4800.0,17,8,2,0,Won
+LD-1080,Mid-Market,Cold Outbound,26700.0,82,7,9,1,Lost
+LD-1081,Enterprise,Inbound Demo,114800.0,74,7,11,0,Lost
+LD-1082,Startup,Cold Outbound,6800.0,35,0,18,0,Lost
+LD-1083,Startup,Cold Outbound,5400.0,50,0,7,0,Lost
+LD-1084,Startup,Cold Outbound,5000.0,45,3,15,0,Lost
+LD-1085,Enterprise,Inbound Demo,72600.0,55,8,19,1,Won
+LD-1086,Startup,Webinar,5500.0,30,9,12,0,Lost
+LD-1087,Enterprise,Cold Outbound,103400.0,68,8,12,1,Won
+LD-1088,Enterprise,Partner Referral,112900.0,72,2,15,0,Won
+LD-1089,Enterprise,Cold Outbound,65400.0,73,7,11,1,Won
+LD-1090,Enterprise,Inbound Demo,130000.0,46,9,5,0,Lost
+LD-1091,Enterprise,Inbound Demo,99700.0,60,4,3,1,Lost
+LD-1092,Startup,Cold Outbound,1900.0,43,1,15,1,Won
+LD-1093,Mid-Market,Partner Referral,19500.0,54,7,10,1,Won
+LD-1094,Mid-Market,Inbound Demo,20100.0,55,3,8,1,Won
+LD-1095,Enterprise,Partner Referral,71300.0,41,5,2,1,Won
+LD-1096,Mid-Market,Inbound Demo,21500.0,49,4,10,1,Lost
+LD-1097,Mid-Market,Cold Outbound,21300.0,56,3,5,1,Lost
+LD-1098,Mid-Market,Cold Outbound,17400.0,72,9,10,1,Won
+LD-1099,Startup,Inbound Demo,6300.0,25,5,16,0,Lost
+LD-1100,Enterprise,Cold Outbound,97400.0,25,0,13,0,Lost
+LD-1101,Mid-Market,Inbound Demo,24100.0,44,1,8,1,Won
+LD-1102,Startup,Partner Referral,7500.0,62,4,19,0,Won
+LD-1103,Enterprise,Partner Referral,147500.0,65,3,19,1,Won
+LD-1104,Startup,Inbound Demo,3700.0,17,7,21,0,Lost
+LD-1105,Enterprise,Cold Outbound,100600.0,47,3,10,0,Lost
+LD-1106,Startup,Webinar,4000.0,35,3,7,0,Lost
+LD-1107,Enterprise,Partner Referral,49900.0,58,6,11,0,Lost
+LD-1108,Startup,Partner Referral,4100.0,60,6,7,1,Lost
+LD-1109,Enterprise,Partner Referral,140900.0,77,7,8,0,Won
+LD-1110,Enterprise,Inbound Demo,84700.0,8,0,12,0,Lost
+LD-1111,Startup,Partner Referral,2700.0,60,1,13,0,Lost
+LD-1112,Startup,Partner Referral,4000.0,45,2,10,1,Won
+LD-1113,Startup,Partner Referral,4100.0,60,8,15,1,Won
+LD-1114,Startup,Inbound Demo,1300.0,29,6,10,1,Lost
+LD-1115,Enterprise,Webinar,103400.0,46,6,19,1,Lost
+LD-1116,Mid-Market,Cold Outbound,26700.0,36,3,9,0,Lost
+LD-1117,Mid-Market,Webinar,27700.0,65,0,13,1,Lost
+LD-1118,Enterprise,Inbound Demo,124000.0,36,0,6,0,Lost
+LD-1119,Startup,Inbound Demo,6600.0,28,0,12,1,Lost
+LD-1120,Mid-Market,Cold Outbound,29100.0,7,5,15,0,Won
+LD-1121,Mid-Market,Cold Outbound,25800.0,56,2,9,1,Lost
+LD-1122,Startup,Partner Referral,5900.0,90,5,13,1,Won
+LD-1123,Enterprise,Cold Outbound,78200.0,28,9,14,0,Lost
+LD-1124,Mid-Market,Cold Outbound,30200.0,34,4,7,1,Lost
+LD-1125,Startup,Cold Outbound,4400.0,33,7,16,1,Lost
+LD-1126,Startup,Partner Referral,5600.0,82,2,5,0,Won
+LD-1127,Startup,Cold Outbound,5300.0,61,2,2,1,Lost
+LD-1128,Mid-Market,Inbound Demo,26400.0,22,12,12,1,Won
+LD-1129,Mid-Market,Webinar,33900.0,56,5,14,0,Won
+LD-1130,Enterprise,Cold Outbound,137600.0,71,9,9,1,Lost
+LD-1131,Mid-Market,Inbound Demo,24500.0,60,12,14,1,Won
+LD-1132,Mid-Market,Cold Outbound,24200.0,36,1,3,0,Lost
+LD-1133,Mid-Market,Cold Outbound,23900.0,57,8,7,1,Won
+LD-1134,Mid-Market,Webinar,23700.0,14,4,10,0,Lost
+LD-1135,Startup,Inbound Demo,6200.0,41,8,2,1,Lost
+LD-1136,Mid-Market,Cold Outbound,23700.0,22,12,12,0,Won
+LD-1137,Mid-Market,Cold Outbound,21100.0,58,4,12,1,Won
+LD-1138,Startup,Inbound Demo,5000.0,34,2,12,1,Lost
+LD-1139,Mid-Market,Partner Referral,31900.0,7,0,5,1,Lost
+LD-1140,Mid-Market,Cold Outbound,23300.0,37,0,8,1,Lost
+LD-1141,Mid-Market,Cold Outbound,23200.0,43,6,8,1,Lost
+LD-1142,Mid-Market,Inbound Demo,28600.0,22,3,14,0,Lost
+LD-1143,Mid-Market,Inbound Demo,23200.0,40,7,7,1,Lost
+LD-1144,Startup,Webinar,4500.0,68,1,15,1,Won
+LD-1145,Startup,Inbound Demo,2500.0,80,1,7,0,Lost
+LD-1146,Mid-Market,Partner Referral,17200.0,57,1,20,0,Lost
+LD-1147,Enterprise,Cold Outbound,64900.0,34,7,11,0,Lost
+LD-1148,Enterprise,Cold Outbound,92700.0,43,5,3,0,Lost
+LD-1149,Mid-Market,Partner Referral,21900.0,36,1,12,1,Won
+LD-1150,Enterprise,Partner Referral,103900.0,25,6,3,1,Won
+LD-1151,Startup,Inbound Demo,4300.0,55,9,19,0,Lost
+LD-1152,Mid-Market,Cold Outbound,15800.0,19,3,12,0,Lost
+LD-1153,Startup,Inbound Demo,4500.0,48,0,14,1,Won
+LD-1154,Startup,Cold Outbound,3600.0,17,2,17,1,Lost
+LD-1155,Startup,Inbound Demo,8100.0,38,5,12,0,Won
+LD-1156,Mid-Market,Inbound Demo,22100.0,47,12,11,1,Won
+LD-1157,Mid-Market,Cold Outbound,23200.0,49,5,10,1,Won
+LD-1158,Mid-Market,Webinar,21900.0,81,7,9,1,Lost
+LD-1159,Mid-Market,Partner Referral,19600.0,63,0,17,0,Won
+LD-1160,Startup,Inbound Demo,4900.0,57,5,5,1,Lost
+LD-1161,Mid-Market,Partner Referral,29100.0,57,8,17,0,Lost
+LD-1162,Mid-Market,Partner Referral,24600.0,11,6,13,1,Won
+LD-1163,Mid-Market,Inbound Demo,29100.0,47,6,10,1,Lost
+LD-1164,Mid-Market,Inbound Demo,24800.0,58,5,12,1,Won
+LD-1165,Mid-Market,Cold Outbound,18000.0,55,1,18,1,Lost
+LD-1166,Mid-Market,Inbound Demo,24100.0,36,9,12,0,Lost
+LD-1167,Startup,Cold Outbound,6300.0,50,0,14,1,Won
+LD-1168,Startup,Cold Outbound,5100.0,66,3,19,1,Lost
+LD-1169,Mid-Market,Inbound Demo,29600.0,51,0,3,1,Lost
+LD-1170,Startup,Cold Outbound,4400.0,39,0,7,0,Lost
+LD-1171,Startup,Partner Referral,2100.0,20,1,15,0,Lost
+LD-1172,Startup,Inbound Demo,6500.0,40,4,15,1,Lost
+LD-1173,Mid-Market,Webinar,30800.0,77,0,12,1,Won
+LD-1174,Mid-Market,Partner Referral,21900.0,33,3,17,0,Won
+LD-1175,Mid-Market,Webinar,23100.0,21,7,17,1,Won
+LD-1176,Startup,Inbound Demo,4200.0,57,5,4,1,Won
+LD-1177,Mid-Market,Cold Outbound,20800.0,48,3,14,1,Won
+LD-1178,Mid-Market,Partner Referral,26400.0,51,6,22,1,Won
+LD-1179,Mid-Market,Partner Referral,16300.0,19,7,7,1,Won
+LD-1180,Enterprise,Webinar,89600.0,49,4,17,1,Won
+LD-1181,Startup,Cold Outbound,6800.0,51,8,6,0,Lost
+LD-1182,Enterprise,Cold Outbound,111700.0,37,6,17,0,Lost
+LD-1183,Startup,Cold Outbound,5600.0,59,6,16,0,Lost
+LD-1184,Startup,Partner Referral,7100.0,57,4,12,0,Won
+LD-1185,Mid-Market,Inbound Demo,21600.0,54,6,14,0,Lost
+LD-1186,Mid-Market,Cold Outbound,26000.0,45,0,15,1,Lost
+LD-1187,Startup,Cold Outbound,7200.0,49,5,9,1,Won
+LD-1188,Enterprise,Partner Referral,98100.0,50,6,12,1,Won
+LD-1189,Enterprise,Cold Outbound,103500.0,53,4,9,0,Lost
+LD-1190,Mid-Market,Cold Outbound,25700.0,30,8,4,0,Won
+LD-1191,Enterprise,Inbound Demo,107300.0,34,4,2,0,Lost
+LD-1192,Mid-Market,Cold Outbound,22200.0,82,0,2,1,Won
+LD-1193,Mid-Market,Inbound Demo,28200.0,64,8,18,0,Won
+LD-1194,Enterprise,Inbound Demo,113000.0,43,10,6,0,Lost
+LD-1195,Startup,Cold Outbound,6300.0,40,2,8,0,Won
+LD-1196,Startup,Inbound Demo,3100.0,73,4,17,0,Lost
+LD-1197,Startup,Inbound Demo,5400.0,40,7,15,0,Lost
+LD-1198,Startup,Partner Referral,6000.0,71,5,15,0,Lost
+LD-1199,Startup,Inbound Demo,3500.0,44,6,8,0,Lost
+LD-1200,Startup,Partner Referral,4900.0,16,5,8,1,Won
+LD-1201,Mid-Market,Cold Outbound,21800.0,64,4,11,0,Won
+LD-1202,Mid-Market,Partner Referral,22700.0,7,0,15,1,Lost
+LD-1203,Startup,Cold Outbound,5600.0,54,4,9,1,Won
+LD-1204,Mid-Market,Cold Outbound,25000.0,21,9,16,1,Won
+LD-1205,Mid-Market,Partner Referral,20600.0,45,4,11,1,Won
+LD-1206,Mid-Market,Inbound Demo,20000.0,39,10,15,1,Lost
+LD-1207,Startup,Inbound Demo,4300.0,36,5,8,1,Lost
+LD-1208,Mid-Market,Partner Referral,25300.0,32,7,13,1,Won
+LD-1209,Startup,Cold Outbound,4100.0,66,5,16,0,Lost
+LD-1210,Enterprise,Cold Outbound,141500.0,31,10,12,1,Won
+LD-1211,Startup,Inbound Demo,3500.0,34,6,17,1,Won
+LD-1212,Startup,Inbound Demo,7600.0,53,5,12,1,Won
+LD-1213,Startup,Webinar,4200.0,49,8,11,1,Lost
+LD-1214,Mid-Market,Inbound Demo,22600.0,76,1,4,0,Lost
+LD-1215,Mid-Market,Partner Referral,17200.0,85,4,20,1,Lost
+LD-1216,Mid-Market,Cold Outbound,24100.0,62,6,4,1,Lost
+LD-1217,Startup,Webinar,5800.0,19,9,15,1,Won
+LD-1218,Enterprise,Cold Outbound,109900.0,50,3,8,1,Lost
+LD-1219,Mid-Market,Inbound Demo,26600.0,39,0,11,1,Lost
+LD-1220,Mid-Market,Cold Outbound,28900.0,7,8,3,0,Won
+LD-1221,Startup,Partner Referral,5600.0,43,7,5,0,Won
+LD-1222,Mid-Market,Inbound Demo,22700.0,51,4,14,1,Won
+LD-1223,Mid-Market,Cold Outbound,14500.0,50,4,18,0,Won
+LD-1224,Enterprise,Cold Outbound,130000.0,62,3,10,0,Won
+LD-1225,Mid-Market,Partner Referral,29200.0,69,8,11,0,Lost
+LD-1226,Startup,Inbound Demo,6500.0,49,4,11,0,Won
+LD-1227,Startup,Inbound Demo,5100.0,31,4,6,1,Lost
+LD-1228,Startup,Cold Outbound,5100.0,7,7,13,1,Won
+LD-1229,Startup,Inbound Demo,1800.0,103,2,14,0,Won
+LD-1230,Mid-Market,Cold Outbound,30500.0,24,6,6,0,Lost
+LD-1231,Enterprise,Partner Referral,105500.0,31,8,11,0,Won
+LD-1232,Mid-Market,Webinar,29400.0,54,5,13,1,Won
+LD-1233,Mid-Market,Cold Outbound,29800.0,51,3,12,0,Lost
+LD-1234,Enterprise,Inbound Demo,122100.0,68,6,6,1,Won
+LD-1235,Startup,Partner Referral,3800.0,50,8,10,1,Lost
+LD-1236,Startup,Inbound Demo,7400.0,54,4,16,0,Lost
+LD-1237,Mid-Market,Webinar,30200.0,56,7,15,1,Won
+LD-1238,Mid-Market,Inbound Demo,24200.0,47,4,12,1,Won
+LD-1239,Mid-Market,Cold Outbound,18600.0,12,2,19,1,Lost
+LD-1240,Startup,Webinar,4000.0,18,9,17,0,Lost
+LD-1241,Mid-Market,Webinar,13800.0,31,5,17,0,Lost
+LD-1242,Mid-Market,Inbound Demo,18100.0,12,8,24,1,Lost
+LD-1243,Mid-Market,Cold Outbound,28400.0,56,4,13,0,Lost
+LD-1244,Enterprise,Inbound Demo,84900.0,39,0,11,1,Won
+LD-1245,Mid-Market,Cold Outbound,29900.0,32,0,13,1,Lost
+LD-1246,Startup,Cold Outbound,3500.0,63,2,10,0,Lost
+LD-1247,Enterprise,Cold Outbound,80600.0,56,10,13,0,Lost
+LD-1248,Startup,Webinar,2600.0,53,4,14,0,Lost
+LD-1249,Mid-Market,Cold Outbound,22100.0,46,6,12,1,Lost
+LD-1250,Startup,Webinar,5100.0,45,2,8,1,Lost
+LD-1251,Mid-Market,Webinar,30700.0,38,4,15,0,Won
+LD-1252,Mid-Market,Cold Outbound,21400.0,62,4,18,1,Lost
+LD-1253,Startup,Partner Referral,5400.0,29,11,5,0,Won
+LD-1254,Mid-Market,Inbound Demo,28200.0,53,4,11,1,Won
+LD-1255,Enterprise,Cold Outbound,124500.0,77,0,13,0,Lost
+LD-1256,Startup,Webinar,4900.0,96,2,20,0,Lost
+LD-1257,Startup,Inbound Demo,6500.0,67,5,9,1,Won
+LD-1258,Mid-Market,Inbound Demo,23100.0,40,3,6,0,Lost
+LD-1259,Enterprise,Cold Outbound,88300.0,41,2,12,1,Lost
+LD-1260,Enterprise,Cold Outbound,104700.0,13,5,16,0,Lost
+LD-1261,Mid-Market,Inbound Demo,19100.0,20,7,21,0,Lost
+LD-1262,Enterprise,Inbound Demo,85900.0,43,6,12,1,Won
+LD-1263,Startup,Webinar,3500.0,57,2,12,1,Lost
+LD-1264,Enterprise,Partner Referral,85300.0,69,8,15,1,Lost
+LD-1265,Mid-Market,Cold Outbound,22300.0,16,5,15,0,Lost
+LD-1266,Mid-Market,Partner Referral,36600.0,52,5,10,1,Won
+LD-1267,Startup,Cold Outbound,5800.0,56,1,7,0,Lost
+LD-1268,Mid-Market,Inbound Demo,15800.0,55,1,2,1,Lost
+LD-1269,Startup,Cold Outbound,6300.0,45,5,11,1,Lost
+LD-1270,Mid-Market,Cold Outbound,25400.0,43,7,10,1,Lost
+LD-1271,Mid-Market,Cold Outbound,27800.0,56,3,10,1,Lost
+LD-1272,Mid-Market,Inbound Demo,27700.0,27,5,11,0,Lost
+LD-1273,Mid-Market,Partner Referral,23900.0,48,12,10,1,Lost
+LD-1274,Mid-Market,Partner Referral,25100.0,18,1,10,0,Lost
+LD-1275,Mid-Market,Inbound Demo,27500.0,46,0,8,1,Lost
+LD-1276,Mid-Market,Partner Referral,20300.0,42,1,14,0,Lost
+LD-1277,Mid-Market,Cold Outbound,20200.0,53,2,11,1,Lost
+LD-1278,Mid-Market,Cold Outbound,25700.0,38,3,10,0,Lost
+LD-1279,Startup,Cold Outbound,5000.0,30,0,16,0,Lost
+LD-1280,Startup,Cold Outbound,1200.0,63,0,10,0,Lost
+LD-1281,Enterprise,Partner Referral,124200.0,38,7,15,0,Won
+LD-1282,Startup,Cold Outbound,4100.0,7,3,13,0,Lost
+LD-1283,Mid-Market,Partner Referral,20000.0,44,0,22,1,Lost
+LD-1284,Startup,Cold Outbound,5000.0,26,3,7,0,Lost
+LD-1285,Enterprise,Partner Referral,53900.0,36,2,2,1,Lost
+LD-1286,Startup,Cold Outbound,4000.0,65,3,21,0,Lost
+LD-1287,Mid-Market,Cold Outbound,24600.0,63,9,18,0,Lost
+LD-1288,Startup,Partner Referral,7000.0,76,5,8,1,Won
+LD-1289,Startup,Inbound Demo,5100.0,79,4,12,1,Won
+LD-1290,Mid-Market,Partner Referral,23200.0,48,0,7,1,Won
+LD-1291,Startup,Partner Referral,6000.0,68,3,9,0,Won
+LD-1292,Startup,Webinar,6800.0,59,7,8,1,Lost
+LD-1293,Mid-Market,Inbound Demo,18700.0,34,5,7,1,Lost
+LD-1294,Startup,Partner Referral,5700.0,88,3,16,0,Lost
+LD-1295,Mid-Market,Inbound Demo,32300.0,80,7,14,1,Lost
+LD-1296,Startup,Cold Outbound,4500.0,28,1,2,0,Lost
+LD-1297,Mid-Market,Inbound Demo,27900.0,47,3,10,0,Lost
+LD-1298,Startup,Cold Outbound,5500.0,61,7,9,1,Lost
+LD-1299,Startup,Cold Outbound,6300.0,28,8,11,1,Lost
+LD-1300,Enterprise,Inbound Demo,113300.0,68,5,5,0,Lost
+LD-1301,Mid-Market,Inbound Demo,24500.0,43,7,14,1,Won
+LD-1302,Mid-Market,Partner Referral,31200.0,45,5,20,1,Won
+LD-1303,Mid-Market,Cold Outbound,15500.0,46,10,15,0,Lost
+LD-1304,Startup,Partner Referral,6900.0,58,4,5,0,Won
+LD-1305,Startup,Cold Outbound,6200.0,26,8,9,0,Won
+LD-1306,Mid-Market,Partner Referral,33300.0,52,1,14,0,Lost
+LD-1307,Enterprise,Cold Outbound,105600.0,74,0,6,0,Lost
+LD-1308,Mid-Market,Cold Outbound,28600.0,37,10,10,1,Lost
+LD-1309,Mid-Market,Partner Referral,16500.0,74,10,8,1,Won
+LD-1310,Startup,Partner Referral,2700.0,70,3,24,1,Lost
+LD-1311,Startup,Cold Outbound,5200.0,31,10,21,0,Lost
+LD-1312,Mid-Market,Webinar,30100.0,56,7,9,0,Lost
+LD-1313,Startup,Partner Referral,6700.0,32,7,15,1,Won
+LD-1314,Enterprise,Partner Referral,77200.0,41,2,2,1,Won
+LD-1315,Startup,Webinar,5700.0,17,5,14,1,Won
+LD-1316,Enterprise,Partner Referral,124400.0,56,4,7,0,Lost
+LD-1317,Enterprise,Webinar,124000.0,7,1,13,0,Lost
+LD-1318,Startup,Partner Referral,5200.0,9,5,11,1,Won
+LD-1319,Mid-Market,Cold Outbound,30200.0,41,3,14,0,Lost
+LD-1320,Mid-Market,Cold Outbound,19200.0,7,4,20,0,Lost
+LD-1321,Enterprise,Inbound Demo,118000.0,60,6,6,1,Won
+LD-1322,Startup,Partner Referral,6100.0,69,4,10,1,Won
+LD-1323,Enterprise,Inbound Demo,107100.0,40,2,7,1,Lost
+LD-1324,Enterprise,Webinar,129900.0,39,4,8,1,Won
+LD-1325,Mid-Market,Inbound Demo,25500.0,22,0,6,0,Lost
+LD-1326,Startup,Cold Outbound,5100.0,55,0,9,1,Lost
+LD-1327,Enterprise,Inbound Demo,77800.0,56,1,24,1,Lost
+LD-1328,Mid-Market,Partner Referral,16900.0,68,2,7,0,Lost
+LD-1329,Mid-Market,Partner Referral,30100.0,98,4,12,1,Lost
+LD-1330,Mid-Market,Inbound Demo,20900.0,46,1,2,1,Won
+LD-1331,Mid-Market,Webinar,22800.0,85,10,6,1,Lost
+LD-1332,Startup,Cold Outbound,5000.0,30,4,18,0,Won
+LD-1333,Enterprise,Inbound Demo,87400.0,57,2,9,0,Lost
+LD-1334,Mid-Market,Webinar,25600.0,77,5,10,1,Lost
+LD-1335,Startup,Inbound Demo,4500.0,55,5,11,1,Lost
+LD-1336,Enterprise,Cold Outbound,117700.0,43,4,27,0,Won
+LD-1337,Mid-Market,Cold Outbound,30200.0,55,8,9,1,Lost
+LD-1338,Mid-Market,Inbound Demo,25600.0,16,7,8,1,Won
+LD-1339,Mid-Market,Inbound Demo,30900.0,55,7,11,0,Lost
+LD-1340,Startup,Inbound Demo,5700.0,28,3,17,0,Lost
+LD-1341,Startup,Inbound Demo,4600.0,54,3,9,0,Lost
+LD-1342,Startup,Partner Referral,3600.0,53,11,6,1,Won
+LD-1343,Startup,Inbound Demo,5300.0,49,6,12,1,Won
+LD-1344,Mid-Market,Inbound Demo,19700.0,53,4,16,1,Won
+LD-1345,Mid-Market,Inbound Demo,25200.0,39,10,13,1,Lost
+LD-1346,Startup,Inbound Demo,5300.0,37,6,10,0,Lost
+LD-1347,Mid-Market,Partner Referral,34000.0,52,4,2,1,Lost
+LD-1348,Mid-Market,Cold Outbound,14400.0,32,8,11,1,Won
+LD-1349,Mid-Market,Webinar,27700.0,28,3,9,1,Won
+LD-1350,Mid-Market,Partner Referral,33100.0,38,8,19,1,Won
+LD-1351,Mid-Market,Webinar,24500.0,69,5,12,1,Won
+LD-1352,Mid-Market,Cold Outbound,19100.0,68,3,13,0,Lost
+LD-1353,Mid-Market,Webinar,23000.0,55,3,15,1,Lost
+LD-1354,Startup,Cold Outbound,5200.0,83,1,8,1,Won
+LD-1355,Startup,Cold Outbound,6500.0,18,7,15,1,Lost
+LD-1356,Startup,Webinar,5600.0,40,7,21,1,Won
+LD-1357,Mid-Market,Cold Outbound,16500.0,7,5,17,1,Won
+LD-1358,Mid-Market,Partner Referral,22300.0,43,5,12,0,Won
+LD-1359,Mid-Market,Partner Referral,22800.0,60,5,13,1,Lost
+LD-1360,Mid-Market,Inbound Demo,20300.0,66,3,16,1,Lost
+LD-1361,Mid-Market,Cold Outbound,26700.0,32,2,12,1,Won
+LD-1362,Mid-Market,Cold Outbound,24900.0,38,7,3,1,Won
+LD-1363,Startup,Webinar,6600.0,27,6,16,1,Won
+LD-1364,Enterprise,Inbound Demo,97900.0,41,5,17,1,Won
+LD-1365,Mid-Market,Partner Referral,26700.0,68,5,15,1,Lost
+LD-1366,Mid-Market,Cold Outbound,25900.0,65,0,15,1,Won
+LD-1367,Startup,Cold Outbound,7200.0,37,7,13,0,Lost
+LD-1368,Mid-Market,Partner Referral,33100.0,71,9,15,0,Won
+LD-1369,Enterprise,Cold Outbound,80700.0,45,4,2,1,Lost
+LD-1370,Mid-Market,Inbound Demo,25600.0,56,5,20,0,Lost
+LD-1371,Startup,Inbound Demo,4800.0,41,3,2,0,Won
+LD-1372,Startup,Partner Referral,4400.0,31,0,11,1,Lost
+LD-1373,Enterprise,Partner Referral,82100.0,31,4,12,0,Won
+LD-1374,Enterprise,Cold Outbound,93800.0,29,5,18,0,Lost
+LD-1375,Startup,Webinar,5600.0,41,2,11,0,Lost
+LD-1376,Startup,Inbound Demo,4500.0,29,8,12,0,Lost
+LD-1377,Startup,Cold Outbound,4400.0,31,0,2,1,Lost
+LD-1378,Enterprise,Cold Outbound,105300.0,55,0,16,1,Lost
+LD-1379,Startup,Cold Outbound,5200.0,32,2,13,1,Won
+LD-1380,Mid-Market,Inbound Demo,14200.0,30,4,7,1,Lost
+LD-1381,Startup,Cold Outbound,5800.0,41,8,17,0,Lost
+LD-1382,Mid-Market,Cold Outbound,24500.0,45,7,13,1,Lost
+LD-1383,Startup,Inbound Demo,5600.0,57,5,8,0,Won
+LD-1384,Mid-Market,Inbound Demo,24800.0,40,4,2,0,Lost
+LD-1385,Mid-Market,Cold Outbound,15200.0,59,7,18,1,Lost
+LD-1386,Mid-Market,Inbound Demo,21800.0,80,1,16,1,Won
+LD-1387,Startup,Cold Outbound,4600.0,73,6,14,1,Lost
+LD-1388,Mid-Market,Inbound Demo,24300.0,61,7,3,1,Won
+LD-1389,Mid-Market,Inbound Demo,32900.0,60,2,19,1,Won
+LD-1390,Startup,Inbound Demo,3300.0,40,4,15,1,Won
+LD-1391,Startup,Inbound Demo,5100.0,41,0,18,0,Won
+LD-1392,Startup,Cold Outbound,2500.0,28,7,20,0,Lost
+LD-1393,Mid-Market,Partner Referral,34500.0,35,4,6,0,Won
+LD-1394,Startup,Partner Referral,5800.0,45,3,11,1,Won
+LD-1395,Startup,Webinar,3400.0,37,0,10,0,Lost
+LD-1396,Mid-Market,Cold Outbound,28500.0,38,8,13,0,Lost
+LD-1397,Mid-Market,Inbound Demo,17300.0,15,6,2,1,Won
+LD-1398,Startup,Partner Referral,7600.0,89,6,14,0,Won
+LD-1399,Enterprise,Webinar,78700.0,27,1,7,1,Lost
+LD-1400,Enterprise,Inbound Demo,60400.0,59,1,13,1,Lost
+LD-1401,Mid-Market,Cold Outbound,24000.0,91,5,16,1,Lost
+LD-1402,Startup,Cold Outbound,3200.0,54,3,11,1,Lost
+LD-1403,Mid-Market,Inbound Demo,17400.0,49,5,20,1,Lost
+LD-1404,Enterprise,Cold Outbound,106200.0,37,5,10,0,Won
+LD-1405,Enterprise,Partner Referral,97500.0,21,4,13,1,Lost
+LD-1406,Startup,Inbound Demo,2300.0,70,2,8,0,Lost
+LD-1407,Mid-Market,Cold Outbound,26200.0,7,13,10,1,Lost
+LD-1408,Mid-Market,Cold Outbound,24700.0,50,6,15,0,Lost
+LD-1409,Mid-Market,Cold Outbound,30800.0,40,4,17,0,Lost
+LD-1410,Mid-Market,Cold Outbound,28300.0,48,4,10,0,Lost
+LD-1411,Enterprise,Cold Outbound,119000.0,67,3,8,1,Won
+LD-1412,Startup,Cold Outbound,4100.0,62,7,14,1,Won
+LD-1413,Startup,Inbound Demo,5800.0,59,6,9,1,Lost
+LD-1414,Startup,Cold Outbound,6800.0,59,6,17,1,Won
+LD-1415,Enterprise,Inbound Demo,83600.0,44,0,3,0,Won
+LD-1416,Enterprise,Cold Outbound,84200.0,38,0,13,1,Won
+LD-1417,Mid-Market,Cold Outbound,32300.0,45,4,12,0,Won
+LD-1418,Enterprise,Cold Outbound,67800.0,29,2,7,0,Lost
+LD-1419,Mid-Market,Cold Outbound,24200.0,59,4,15,1,Won
+LD-1420,Startup,Inbound Demo,6000.0,20,5,13,1,Won
+LD-1421,Enterprise,Cold Outbound,82900.0,51,5,17,0,Lost
+LD-1422,Mid-Market,Inbound Demo,34000.0,69,5,9,1,Won
+LD-1423,Mid-Market,Cold Outbound,29200.0,56,5,18,1,Won
+LD-1424,Startup,Cold Outbound,5600.0,34,4,3,1,Won
+LD-1425,Mid-Market,Cold Outbound,26700.0,26,3,12,1,Won
+LD-1426,Mid-Market,Cold Outbound,23400.0,48,7,7,1,Won
+LD-1427,Startup,Cold Outbound,4600.0,29,7,9,1,Won
+LD-1428,Mid-Market,Cold Outbound,26300.0,48,7,11,0,Lost
+LD-1429,Enterprise,Cold Outbound,98700.0,84,9,5,1,Lost
+LD-1430,Startup,Cold Outbound,6400.0,69,5,12,0,Won
+LD-1431,Mid-Market,Cold Outbound,26000.0,39,3,12,1,Won
+LD-1432,Enterprise,Cold Outbound,100000.0,57,0,2,1,Won
+LD-1433,Mid-Market,Partner Referral,18000.0,16,8,10,0,Lost
+LD-1434,Enterprise,Partner Referral,112400.0,22,8,11,0,Won
+LD-1435,Mid-Market,Cold Outbound,29900.0,77,2,9,1,Lost
+LD-1436,Startup,Cold Outbound,3700.0,67,1,20,1,Lost
+LD-1437,Startup,Webinar,5300.0,42,2,4,1,Won
+LD-1438,Startup,Inbound Demo,5100.0,24,7,9,1,Won
+LD-1439,Enterprise,Inbound Demo,69500.0,22,4,2,0,Lost
+LD-1440,Enterprise,Partner Referral,148300.0,60,4,10,1,Lost
+LD-1441,Startup,Partner Referral,8000.0,49,8,8,1,Lost
+LD-1442,Startup,Inbound Demo,5700.0,45,7,14,0,Won
+LD-1443,Mid-Market,Partner Referral,29900.0,30,0,13,1,Won
+LD-1444,Mid-Market,Cold Outbound,25800.0,46,5,13,0,Lost
+LD-1445,Startup,Cold Outbound,1600.0,26,3,11,1,Won
+LD-1446,Mid-Market,Cold Outbound,24500.0,12,4,20,1,Won
+LD-1447,Startup,Partner Referral,5800.0,46,4,8,1,Won
+LD-1448,Enterprise,Cold Outbound,92500.0,38,8,14,0,Lost
+LD-1449,Enterprise,Cold Outbound,106500.0,37,1,19,1,Lost
+LD-1450,Startup,Cold Outbound,3800.0,19,4,14,0,Lost
+LD-1451,Enterprise,Partner Referral,106600.0,57,1,11,1,Lost
+LD-1452,Startup,Cold Outbound,2600.0,48,11,12,0,Won
+LD-1453,Mid-Market,Inbound Demo,29200.0,32,11,2,0,Lost
+LD-1454,Enterprise,Inbound Demo,71500.0,39,3,14,0,Lost
+LD-1455,Startup,Webinar,5100.0,51,3,3,1,Lost
+LD-1456,Mid-Market,Webinar,25900.0,31,6,12,1,Lost
+LD-1457,Mid-Market,Cold Outbound,24600.0,20,2,16,1,Lost
+LD-1458,Startup,Cold Outbound,3600.0,54,9,13,1,Won
+LD-1459,Enterprise,Cold Outbound,112400.0,40,6,5,1,Won
+LD-1460,Enterprise,Partner Referral,117600.0,35,3,13,0,Lost
+LD-1461,Mid-Market,Inbound Demo,24900.0,35,2,13,1,Won
+LD-1462,Enterprise,Cold Outbound,114900.0,41,3,18,1,Won
+LD-1463,Mid-Market,Cold Outbound,26200.0,48,5,14,1,Won
+LD-1464,Startup,Inbound Demo,4000.0,60,0,16,0,Lost
+LD-1465,Mid-Market,Partner Referral,21400.0,33,0,12,1,Won
+LD-1466,Startup,Inbound Demo,4400.0,58,5,14,1,Won
+LD-1467,Startup,Cold Outbound,5800.0,97,2,16,0,Lost
+LD-1468,Mid-Market,Inbound Demo,24100.0,63,4,19,0,Lost
+LD-1469,Mid-Market,Inbound Demo,27000.0,18,3,6,1,Lost
+LD-1470,Startup,Inbound Demo,1100.0,48,6,14,1,Won
+LD-1471,Mid-Market,Inbound Demo,30200.0,59,2,14,1,Lost
+LD-1472,Mid-Market,Inbound Demo,16100.0,51,3,11,0,Lost
+LD-1473,Startup,Cold Outbound,6000.0,7,2,6,1,Won
+LD-1474,Enterprise,Cold Outbound,113600.0,22,6,14,1,Won
+LD-1475,Mid-Market,Cold Outbound,19700.0,21,7,14,0,Won
+LD-1476,Startup,Inbound Demo,6200.0,39,3,19,0,Lost
+LD-1477,Startup,Partner Referral,4100.0,49,10,13,0,Won
+LD-1478,Mid-Market,Partner Referral,27100.0,73,6,4,1,Won
+LD-1479,Startup,Cold Outbound,6500.0,61,5,7,0,Lost
+LD-1480,Startup,Partner Referral,5900.0,41,6,16,1,Won
+LD-1481,Mid-Market,Cold Outbound,29100.0,43,8,16,0,Lost
+LD-1482,Startup,Partner Referral,6300.0,32,3,6,1,Won
+LD-1483,Startup,Inbound Demo,6600.0,63,6,12,1,Won
+LD-1484,Startup,Webinar,3400.0,37,7,16,1,Won
+LD-1485,Enterprise,Cold Outbound,98800.0,54,7,6,1,Lost
+LD-1486,Mid-Market,Inbound Demo,27500.0,45,5,8,1,Lost
+LD-1487,Mid-Market,Partner Referral,23800.0,50,5,18,1,Won
+LD-1488,Startup,Cold Outbound,4300.0,27,7,10,0,Lost
+LD-1489,Mid-Market,Partner Referral,21800.0,60,8,21,1,Lost
+LD-1490,Enterprise,Cold Outbound,92600.0,47,0,14,1,Won
+LD-1491,Enterprise,Cold Outbound,125000.0,14,8,7,0,Lost
+LD-1492,Mid-Market,Inbound Demo,22300.0,10,1,18,0,Won
+LD-1493,Enterprise,Cold Outbound,110800.0,41,9,17,1,Lost
+LD-1494,Startup,Cold Outbound,4500.0,18,3,13,1,Won
+LD-1495,Mid-Market,Cold Outbound,22500.0,11,1,12,0,Lost
+LD-1496,Startup,Inbound Demo,4700.0,26,7,17,0,Lost
+LD-1497,Startup,Webinar,3300.0,11,2,8,1,Lost
+LD-1498,Enterprise,Webinar,81600.0,24,5,12,1,Lost
+LD-1499,Mid-Market,Cold Outbound,24600.0,48,5,7,0,Lost
+LD-1500,Mid-Market,Webinar,18500.0,61,7,6,1,Lost
+LD-1501,Mid-Market,Partner Referral,17100.0,63,6,4,1,Lost
+LD-1502,Startup,Partner Referral,5800.0,51,6,5,1,Won
+LD-1503,Startup,Cold Outbound,3700.0,78,5,10,0,Won
+LD-1504,Mid-Market,Webinar,27900.0,43,8,10,1,Won
+LD-1505,Mid-Market,Cold Outbound,20700.0,42,5,12,1,Won
+LD-1506,Startup,Cold Outbound,4300.0,12,10,18,1,Lost
+LD-1507,Startup,Partner Referral,6200.0,25,6,14,1,Won
+LD-1508,Startup,Cold Outbound,3800.0,31,2,7,1,Won
+LD-1509,Startup,Cold Outbound,7600.0,38,9,16,0,Won
+LD-1510,Startup,Webinar,5700.0,54,5,15,1,Won
+LD-1511,Startup,Partner Referral,7100.0,58,5,20,1,Won
+LD-1512,Enterprise,Cold Outbound,113700.0,40,8,23,1,Won
+LD-1513,Mid-Market,Partner Referral,29100.0,39,8,15,1,Won
+LD-1514,Startup,Inbound Demo,3000.0,58,3,20,1,Lost
+LD-1515,Enterprise,Partner Referral,110800.0,48,3,3,0,Won
+LD-1516,Enterprise,Cold Outbound,100500.0,7,4,8,0,Lost
+LD-1517,Mid-Market,Inbound Demo,26300.0,37,10,6,1,Won
+LD-1518,Startup,Partner Referral,4600.0,39,7,13,1,Lost
+LD-1519,Mid-Market,Cold Outbound,21500.0,51,1,6,0,Lost
+LD-1520,Mid-Market,Cold Outbound,39700.0,69,0,5,1,Lost
+LD-1521,Startup,Webinar,4000.0,65,1,5,0,Lost
+LD-1522,Mid-Market,Partner Referral,23900.0,27,5,26,0,Won
+LD-1523,Startup,Webinar,5600.0,61,5,12,0,Lost
+LD-1524,Mid-Market,Cold Outbound,35300.0,22,6,7,1,Won
+LD-1525,Enterprise,Partner Referral,79300.0,59,5,20,0,Won
+LD-1526,Startup,Webinar,3900.0,19,4,10,1,Won
+LD-1527,Enterprise,Inbound Demo,71600.0,56,4,9,1,Won
+LD-1528,Startup,Inbound Demo,6500.0,86,0,2,1,Lost
+LD-1529,Mid-Market,Cold Outbound,30400.0,66,5,5,0,Lost
+LD-1530,Enterprise,Partner Referral,106600.0,63,1,12,1,Lost
+LD-1531,Mid-Market,Cold Outbound,23300.0,29,6,7,1,Won
+LD-1532,Startup,Cold Outbound,6300.0,40,5,4,1,Won
+LD-1533,Startup,Webinar,4900.0,29,11,16,1,Lost
+LD-1534,Mid-Market,Partner Referral,26400.0,80,6,13,0,Lost
+LD-1535,Enterprise,Cold Outbound,58300.0,41,4,19,0,Won
+LD-1536,Startup,Inbound Demo,3800.0,43,8,9,0,Lost
+LD-1537,Mid-Market,Cold Outbound,23600.0,63,6,12,0,Won
+LD-1538,Mid-Market,Cold Outbound,22000.0,49,8,9,1,Won
+LD-1539,Mid-Market,Inbound Demo,19600.0,31,1,4,0,Won
+LD-1540,Mid-Market,Partner Referral,22000.0,7,7,18,0,Lost
+LD-1541,Startup,Inbound Demo,4700.0,87,5,19,1,Won
+LD-1542,Mid-Market,Cold Outbound,27300.0,74,7,15,1,Lost
+LD-1543,Mid-Market,Cold Outbound,19300.0,46,8,19,0,Lost
+LD-1544,Mid-Market,Partner Referral,22800.0,35,5,14,0,Lost
+LD-1545,Startup,Cold Outbound,5800.0,73,7,13,1,Won
+LD-1546,Startup,Cold Outbound,3500.0,52,10,10,1,Won
+LD-1547,Startup,Inbound Demo,4100.0,24,2,8,1,Lost
+LD-1548,Startup,Cold Outbound,5000.0,63,2,19,1,Lost
+LD-1549,Enterprise,Inbound Demo,122200.0,56,7,6,1,Won
+LD-1550,Mid-Market,Cold Outbound,25900.0,56,1,7,0,Lost
+LD-1551,Mid-Market,Cold Outbound,19900.0,59,0,15,1,Lost
+LD-1552,Startup,Inbound Demo,5800.0,57,2,14,0,Won
+LD-1553,Mid-Market,Webinar,20300.0,73,3,11,1,Won
+LD-1554,Startup,Inbound Demo,5500.0,13,5,10,1,Won
+LD-1555,Enterprise,Cold Outbound,113400.0,39,3,15,1,Lost
+LD-1556,Mid-Market,Partner Referral,28800.0,57,1,10,1,Won
+LD-1557,Enterprise,Partner Referral,124300.0,33,0,15,0,Lost
+LD-1558,Startup,Cold Outbound,5900.0,71,6,17,1,Won
+LD-1559,Startup,Cold Outbound,6500.0,51,9,20,1,Lost
+LD-1560,Mid-Market,Partner Referral,23200.0,76,2,19,1,Won
+LD-1561,Enterprise,Cold Outbound,114100.0,48,4,14,1,Won
+LD-1562,Enterprise,Cold Outbound,112500.0,62,3,12,0,Lost
+LD-1563,Startup,Webinar,6800.0,68,6,11,0,Won
+LD-1564,Startup,Cold Outbound,7900.0,45,8,18,1,Won
+LD-1565,Startup,Inbound Demo,5600.0,24,1,13,1,Lost
+LD-1566,Mid-Market,Cold Outbound,34900.0,34,3,13,0,Won
+LD-1567,Mid-Market,Cold Outbound,27600.0,71,7,14,0,Lost
+LD-1568,Startup,Webinar,5100.0,56,0,10,0,Lost
+LD-1569,Startup,Cold Outbound,2500.0,55,5,15,0,Lost
+LD-1570,Mid-Market,Partner Referral,22700.0,41,4,9,1,Won
+LD-1571,Enterprise,Cold Outbound,118600.0,50,5,15,0,Won
+LD-1572,Enterprise,Cold Outbound,112600.0,28,7,8,0,Lost
+LD-1573,Mid-Market,Cold Outbound,26400.0,46,8,11,1,Won
+LD-1574,Mid-Market,Webinar,22400.0,41,4,8,0,Won
+LD-1575,Mid-Market,Cold Outbound,21700.0,30,0,10,0,Lost
+LD-1576,Mid-Market,Inbound Demo,23700.0,40,4,14,0,Won
+LD-1577,Mid-Market,Partner Referral,21900.0,66,1,8,1,Won
+LD-1578,Mid-Market,Inbound Demo,21200.0,19,3,12,0,Lost
+LD-1579,Startup,Inbound Demo,4400.0,51,7,10,1,Won
+LD-1580,Startup,Cold Outbound,5000.0,28,6,3,1,Lost
+LD-1581,Mid-Market,Webinar,26200.0,23,1,12,0,Lost
+LD-1582,Mid-Market,Inbound Demo,24500.0,9,4,7,1,Won
+LD-1583,Startup,Cold Outbound,3200.0,7,6,20,0,Lost
+LD-1584,Mid-Market,Cold Outbound,27400.0,52,6,2,1,Lost
+LD-1585,Enterprise,Cold Outbound,76300.0,35,10,11,1,Lost
+LD-1586,Mid-Market,Partner Referral,31200.0,43,7,10,0,Won
+LD-1587,Mid-Market,Cold Outbound,22400.0,7,3,13,1,Won
+LD-1588,Startup,Cold Outbound,7900.0,77,11,11,1,Won
+LD-1589,Enterprise,Inbound Demo,58100.0,62,2,14,1,Lost
+LD-1590,Startup,Partner Referral,4100.0,28,3,9,1,Lost
+LD-1591,Startup,Webinar,5600.0,41,5,14,0,Won
+LD-1592,Startup,Inbound Demo,6800.0,34,2,10,0,Lost
+LD-1593,Startup,Webinar,5600.0,54,6,7,0,Won
+LD-1594,Enterprise,Partner Referral,108200.0,38,2,7,1,Won
+LD-1595,Startup,Partner Referral,5400.0,52,9,15,1,Won
+LD-1596,Mid-Market,Inbound Demo,14600.0,33,4,7,1,Lost
+LD-1597,Startup,Cold Outbound,4000.0,30,4,16,0,Lost
+LD-1598,Mid-Market,Inbound Demo,22000.0,54,0,9,0,Lost
+LD-1599,Mid-Market,Inbound Demo,30900.0,37,3,6,0,Lost
+LD-1600,Mid-Market,Cold Outbound,28800.0,49,6,31,1,Won
+LD-1601,Mid-Market,Partner Referral,25300.0,34,8,10,1,Won
+LD-1602,Mid-Market,Inbound Demo,24800.0,36,3,13,1,Lost
+LD-1603,Enterprise,Cold Outbound,83700.0,34,8,9,0,Lost
+LD-1604,Enterprise,Cold Outbound,89300.0,52,2,15,1,Lost
+LD-1605,Enterprise,Cold Outbound,114900.0,47,3,11,0,Won
+LD-1606,Enterprise,Inbound Demo,102000.0,70,2,15,1,Won
+LD-1607,Mid-Market,Partner Referral,27500.0,48,7,4,0,Lost
+LD-1608,Enterprise,Inbound Demo,117400.0,35,2,16,0,Lost
+LD-1609,Startup,Webinar,6500.0,65,1,5,0,Won
+LD-1610,Startup,Cold Outbound,2500.0,37,7,9,0,Lost
+LD-1611,Enterprise,Webinar,90600.0,21,1,13,0,Lost
+LD-1612,Startup,Cold Outbound,5100.0,7,4,3,1,Lost
+LD-1613,Enterprise,Inbound Demo,116500.0,61,7,12,0,Lost
+LD-1614,Mid-Market,Cold Outbound,20300.0,79,7,10,0,Lost
+LD-1615,Enterprise,Cold Outbound,94600.0,56,1,16,1,Won
+LD-1616,Startup,Inbound Demo,4200.0,23,8,10,1,Won
+LD-1617,Startup,Inbound Demo,5300.0,79,4,2,0,Won
+LD-1618,Mid-Market,Cold Outbound,18200.0,84,7,12,0,Lost
+LD-1619,Startup,Partner Referral,6300.0,70,10,16,0,Lost
+LD-1620,Enterprise,Cold Outbound,66900.0,25,4,12,1,Won
+LD-1621,Mid-Market,Inbound Demo,19900.0,43,5,8,1,Lost
+LD-1622,Startup,Inbound Demo,5100.0,40,2,12,1,Won
+LD-1623,Startup,Partner Referral,2400.0,56,4,14,0,Won
+LD-1624,Startup,Partner Referral,4400.0,82,6,5,1,Won
+LD-1625,Mid-Market,Cold Outbound,15700.0,65,6,14,1,Won
+LD-1626,Startup,Cold Outbound,3100.0,17,3,17,1,Won
+LD-1627,Mid-Market,Partner Referral,24700.0,27,8,11,0,Won
+LD-1628,Startup,Inbound Demo,6800.0,35,3,17,0,Lost
+LD-1629,Startup,Cold Outbound,5600.0,41,6,21,1,Won
+LD-1630,Startup,Inbound Demo,1300.0,31,6,7,0,Lost
+LD-1631,Mid-Market,Cold Outbound,33600.0,54,4,8,1,Won
+LD-1632,Mid-Market,Cold Outbound,28100.0,48,3,13,0,Lost
+LD-1633,Startup,Inbound Demo,1700.0,67,6,14,0,Lost
+LD-1634,Enterprise,Inbound Demo,72600.0,30,4,8,1,Won
+LD-1635,Mid-Market,Inbound Demo,30800.0,70,4,8,1,Won
+LD-1636,Startup,Cold Outbound,5500.0,38,4,9,1,Won
+LD-1637,Mid-Market,Inbound Demo,25800.0,65,5,4,1,Lost
+LD-1638,Mid-Market,Inbound Demo,26100.0,58,1,20,1,Lost
+LD-1639,Mid-Market,Inbound Demo,34900.0,52,9,9,1,Lost
+LD-1640,Enterprise,Cold Outbound,104700.0,40,8,12,1,Won
+LD-1641,Mid-Market,Inbound Demo,28700.0,40,6,9,1,Won
+LD-1642,Enterprise,Partner Referral,61000.0,47,0,15,1,Won
+LD-1643,Enterprise,Partner Referral,130200.0,31,8,6,1,Lost
+LD-1644,Startup,Cold Outbound,4800.0,56,2,16,1,Lost
+LD-1645,Enterprise,Webinar,101500.0,38,8,17,1,Won
+LD-1646,Enterprise,Inbound Demo,74100.0,56,6,2,1,Won
+LD-1647,Mid-Market,Partner Referral,23400.0,38,9,9,0,Lost
+LD-1648,Mid-Market,Cold Outbound,24000.0,29,8,20,0,Won
+LD-1649,Startup,Partner Referral,4400.0,34,3,11,0,Won
+LD-1650,Startup,Cold Outbound,2100.0,71,5,9,0,Won
+LD-1651,Mid-Market,Cold Outbound,21600.0,65,5,9,1,Won
+LD-1652,Startup,Cold Outbound,5100.0,53,7,6,1,Won
+LD-1653,Mid-Market,Inbound Demo,23800.0,60,3,12,1,Lost
+LD-1654,Startup,Inbound Demo,5600.0,54,2,8,0,Lost
+LD-1655,Mid-Market,Cold Outbound,15100.0,32,7,8,0,Won
+LD-1656,Startup,Cold Outbound,1000.0,37,1,3,1,Lost
+LD-1657,Enterprise,Partner Referral,105000.0,21,6,15,1,Won
+LD-1658,Enterprise,Cold Outbound,90800.0,31,1,3,0,Lost
+LD-1659,Enterprise,Inbound Demo,131400.0,27,6,6,1,Won
+LD-1660,Startup,Inbound Demo,3500.0,29,0,9,1,Lost
+LD-1661,Mid-Market,Inbound Demo,27600.0,64,3,17,0,Lost
+LD-1662,Mid-Market,Inbound Demo,21100.0,71,1,16,1,Won
+LD-1663,Enterprise,Inbound Demo,112100.0,67,8,13,1,Won
+LD-1664,Startup,Partner Referral,8400.0,32,0,2,0,Lost
+LD-1665,Startup,Cold Outbound,6700.0,49,7,14,0,Lost
+LD-1666,Startup,Cold Outbound,3600.0,31,2,16,1,Lost
+LD-1667,Mid-Market,Inbound Demo,22700.0,62,7,20,1,Lost
+LD-1668,Startup,Webinar,6100.0,80,0,9,0,Lost
+LD-1669,Enterprise,Cold Outbound,114600.0,24,6,5,1,Lost
+LD-1670,Mid-Market,Webinar,26400.0,25,2,18,0,Lost
+LD-1671,Mid-Market,Partner Referral,24000.0,55,4,11,1,Won
+LD-1672,Mid-Market,Inbound Demo,19600.0,83,1,12,1,Won
+LD-1673,Mid-Market,Cold Outbound,26100.0,46,9,21,0,Lost
+LD-1674,Startup,Partner Referral,2500.0,66,4,15,0,Won
+LD-1675,Enterprise,Cold Outbound,80000.0,65,10,13,0,Lost
+LD-1676,Mid-Market,Inbound Demo,28200.0,66,6,12,1,Won
+LD-1677,Startup,Cold Outbound,6000.0,22,8,20,0,Won
+LD-1678,Enterprise,Inbound Demo,81900.0,68,6,21,0,Lost
+LD-1679,Startup,Inbound Demo,3900.0,50,9,8,0,Lost
+LD-1680,Mid-Market,Partner Referral,20400.0,72,8,12,1,Lost
+LD-1681,Mid-Market,Partner Referral,28000.0,100,5,7,1,Won
+LD-1682,Mid-Market,Partner Referral,17200.0,75,4,10,1,Won
+LD-1683,Enterprise,Inbound Demo,99400.0,50,8,12,0,Lost
+LD-1684,Enterprise,Inbound Demo,125500.0,51,1,6,0,Lost
+LD-1685,Mid-Market,Inbound Demo,31000.0,67,2,10,0,Lost
+LD-1686,Startup,Webinar,5300.0,24,8,17,1,Lost
+LD-1687,Mid-Market,Cold Outbound,25000.0,66,7,19,1,Won
+LD-1688,Startup,Inbound Demo,8100.0,24,3,14,1,Won
+LD-1689,Mid-Market,Inbound Demo,37800.0,32,2,12,0,Won
+LD-1690,Mid-Market,Partner Referral,26000.0,26,0,13,0,Lost
+LD-1691,Startup,Cold Outbound,8000.0,44,2,6,1,Lost
+LD-1692,Startup,Inbound Demo,7400.0,56,9,5,1,Won
+LD-1693,Enterprise,Cold Outbound,112000.0,26,0,16,1,Lost
+LD-1694,Startup,Cold Outbound,3500.0,69,2,20,1,Lost
+LD-1695,Enterprise,Cold Outbound,54900.0,21,5,7,0,Lost
+LD-1696,Mid-Market,Inbound Demo,22000.0,41,5,2,0,Won
+LD-1697,Enterprise,Cold Outbound,58700.0,31,2,10,1,Lost
+LD-1698,Startup,Partner Referral,2300.0,17,2,21,1,Lost
+LD-1699,Mid-Market,Cold Outbound,25900.0,55,12,9,0,Lost
+LD-1700,Mid-Market,Cold Outbound,16600.0,24,4,7,1,Won
+LD-1701,Startup,Partner Referral,3700.0,58,5,8,0,Lost
+LD-1702,Mid-Market,Partner Referral,26100.0,65,8,9,1,Won
+LD-1703,Enterprise,Inbound Demo,102500.0,29,4,16,0,Won
+LD-1704,Startup,Cold Outbound,4900.0,43,10,5,1,Won
+LD-1705,Mid-Market,Cold Outbound,31000.0,51,4,7,0,Lost
+LD-1706,Mid-Market,Cold Outbound,27500.0,56,5,11,1,Won
+LD-1707,Mid-Market,Inbound Demo,27800.0,28,4,9,1,Won
+LD-1708,Startup,Webinar,6000.0,47,4,22,1,Lost
+LD-1709,Enterprise,Cold Outbound,88200.0,61,4,6,0,Lost
+LD-1710,Enterprise,Inbound Demo,89000.0,42,7,13,1,Won
+LD-1711,Startup,Inbound Demo,4600.0,16,5,18,1,Won
+LD-1712,Enterprise,Inbound Demo,105100.0,72,6,17,1,Lost
+LD-1713,Startup,Cold Outbound,2700.0,79,5,14,1,Lost
+LD-1714,Enterprise,Inbound Demo,111500.0,19,1,13,0,Won
+LD-1715,Enterprise,Cold Outbound,128000.0,56,0,12,0,Lost
+LD-1716,Mid-Market,Inbound Demo,24400.0,28,3,9,1,Won
+LD-1717,Mid-Market,Inbound Demo,22300.0,42,5,2,1,Won
+LD-1718,Startup,Cold Outbound,6600.0,37,5,6,1,Won
+LD-1719,Mid-Market,Cold Outbound,25600.0,30,8,12,0,Lost
+LD-1720,Startup,Cold Outbound,5300.0,18,3,12,1,Lost
+LD-1721,Startup,Partner Referral,4300.0,61,0,12,0,Lost
+LD-1722,Mid-Market,Inbound Demo,29900.0,7,8,18,1,Won
+LD-1723,Enterprise,Partner Referral,47200.0,38,5,14,1,Won
+LD-1724,Startup,Webinar,3600.0,13,4,10,1,Won
+LD-1725,Enterprise,Cold Outbound,112400.0,65,0,25,0,Lost
+LD-1726,Mid-Market,Cold Outbound,24100.0,37,8,8,1,Lost
+LD-1727,Startup,Inbound Demo,5800.0,38,3,14,0,Lost
+LD-1728,Startup,Partner Referral,5500.0,43,6,9,1,Won
+LD-1729,Mid-Market,Inbound Demo,22200.0,76,8,13,0,Lost
+LD-1730,Mid-Market,Cold Outbound,21000.0,53,8,2,0,Lost
+LD-1731,Startup,Cold Outbound,5200.0,45,6,7,0,Lost
+LD-1732,Startup,Partner Referral,4100.0,21,4,22,0,Won
+LD-1733,Startup,Partner Referral,6700.0,10,1,13,1,Won
+LD-1734,Startup,Webinar,8100.0,76,7,7,1,Won
+LD-1735,Startup,Webinar,6800.0,32,0,14,1,Lost
+LD-1736,Mid-Market,Cold Outbound,31900.0,51,7,19,1,Won
+LD-1737,Mid-Market,Partner Referral,23000.0,32,10,4,0,Lost
+LD-1738,Startup,Inbound Demo,2200.0,44,6,12,0,Won
+LD-1739,Mid-Market,Partner Referral,20500.0,43,7,22,1,Won
+LD-1740,Startup,Inbound Demo,6400.0,46,5,17,1,Lost
+LD-1741,Startup,Inbound Demo,6900.0,52,9,9,1,Lost
+LD-1742,Startup,Cold Outbound,3100.0,50,2,8,1,Won
+LD-1743,Mid-Market,Inbound Demo,27600.0,8,0,21,1,Lost
+LD-1744,Startup,Cold Outbound,5100.0,19,2,7,1,Lost
+LD-1745,Startup,Inbound Demo,7000.0,68,4,16,1,Won
+LD-1746,Startup,Webinar,6900.0,67,2,17,0,Lost
+LD-1747,Enterprise,Cold Outbound,94500.0,54,3,10,1,Lost
+LD-1748,Startup,Inbound Demo,8100.0,45,7,8,1,Lost
+LD-1749,Mid-Market,Inbound Demo,21000.0,11,6,12,1,Won
+LD-1750,Mid-Market,Cold Outbound,28500.0,59,2,10,1,Lost
+LD-1751,Startup,Inbound Demo,5800.0,77,5,4,0,Lost
+LD-1752,Mid-Market,Inbound Demo,34500.0,26,2,15,1,Lost
+LD-1753,Startup,Webinar,3800.0,32,5,12,1,Won
+LD-1754,Mid-Market,Partner Referral,27100.0,50,3,13,1,Lost
+LD-1755,Startup,Partner Referral,2700.0,21,4,8,0,Won
+LD-1756,Enterprise,Inbound Demo,83800.0,22,5,13,1,Won
+LD-1757,Enterprise,Inbound Demo,88700.0,53,5,12,1,Lost
+LD-1758,Enterprise,Webinar,100100.0,7,5,23,1,Won
+LD-1759,Mid-Market,Cold Outbound,29900.0,32,4,13,1,Lost
+LD-1760,Startup,Cold Outbound,6100.0,56,4,13,0,Lost
+LD-1761,Startup,Inbound Demo,5600.0,30,7,17,1,Won
+LD-1762,Mid-Market,Cold Outbound,24700.0,46,5,11,0,Lost
+LD-1763,Mid-Market,Webinar,23200.0,65,6,10,1,Won
+LD-1764,Mid-Market,Cold Outbound,28000.0,27,12,13,1,Lost
+LD-1765,Mid-Market,Partner Referral,26900.0,52,3,13,0,Lost
+LD-1766,Mid-Market,Cold Outbound,31100.0,66,7,10,0,Lost
+LD-1767,Startup,Cold Outbound,4700.0,26,5,12,0,Lost
+LD-1768,Mid-Market,Inbound Demo,20400.0,28,4,13,0,Lost
+LD-1769,Mid-Market,Cold Outbound,19900.0,38,5,10,1,Lost
+LD-1770,Enterprise,Cold Outbound,71300.0,18,5,2,1,Won
+LD-1771,Mid-Market,Cold Outbound,25100.0,65,1,12,0,Lost
+LD-1772,Mid-Market,Cold Outbound,24100.0,42,7,20,1,Won
+LD-1773,Mid-Market,Cold Outbound,32000.0,37,6,9,1,Lost
+LD-1774,Mid-Market,Inbound Demo,19000.0,7,7,7,0,Lost
+LD-1775,Mid-Market,Cold Outbound,29500.0,11,4,12,0,Lost
+LD-1776,Enterprise,Cold Outbound,90800.0,41,3,5,1,Won
+LD-1777,Startup,Cold Outbound,5700.0,58,5,10,1,Lost
+LD-1778,Mid-Market,Cold Outbound,20000.0,41,0,12,1,Won
+LD-1779,Startup,Partner Referral,7200.0,61,4,9,1,Lost
+LD-1780,Mid-Market,Cold Outbound,21500.0,7,5,22,1,Lost
+LD-1781,Startup,Cold Outbound,4700.0,75,4,13,0,Lost
+LD-1782,Startup,Webinar,3800.0,61,5,12,1,Lost
+LD-1783,Startup,Cold Outbound,5400.0,33,0,9,1,Lost
+LD-1784,Mid-Market,Cold Outbound,30000.0,35,2,8,1,Won
+LD-1785,Mid-Market,Cold Outbound,26200.0,18,3,3,1,Won
+LD-1786,Enterprise,Inbound Demo,58500.0,43,4,10,0,Won
+LD-1787,Mid-Market,Cold Outbound,20400.0,35,3,13,1,Lost
+LD-1788,Enterprise,Inbound Demo,103600.0,71,6,9,1,Won
+LD-1789,Startup,Cold Outbound,7400.0,46,3,7,0,Lost
+LD-1790,Startup,Cold Outbound,2900.0,12,1,12,1,Lost
+LD-1791,Mid-Market,Cold Outbound,22400.0,27,9,12,1,Lost
+LD-1792,Mid-Market,Inbound Demo,20000.0,53,2,12,1,Won
+LD-1793,Startup,Partner Referral,4200.0,43,4,14,1,Won
+LD-1794,Mid-Market,Partner Referral,23000.0,21,3,13,1,Lost
+LD-1795,Startup,Partner Referral,7000.0,33,8,4,1,Won
+LD-1796,Startup,Cold Outbound,6800.0,54,4,9,1,Won
+LD-1797,Enterprise,Cold Outbound,72000.0,71,5,6,0,Lost
+LD-1798,Mid-Market,Cold Outbound,20200.0,38,3,8,1,Won
+LD-1799,Startup,Partner Referral,6800.0,78,2,19,0,Lost
+LD-1800,Enterprise,Partner Referral,97000.0,16,3,14,1,Won
+LD-1801,Mid-Market,Inbound Demo,23400.0,61,1,17,1,Won
+LD-1802,Startup,Cold Outbound,2900.0,56,2,11,1,Won
+LD-1803,Mid-Market,Cold Outbound,22300.0,39,1,11,1,Won
+LD-1804,Startup,Cold Outbound,5500.0,78,5,16,1,Won
+LD-1805,Mid-Market,Cold Outbound,22600.0,36,4,14,0,Lost
+LD-1806,Enterprise,Cold Outbound,85200.0,68,7,13,1,Won
+LD-1807,Startup,Cold Outbound,4600.0,11,7,7,1,Lost
+LD-1808,Startup,Cold Outbound,2200.0,27,4,14,1,Won
+LD-1809,Startup,Partner Referral,6000.0,39,9,13,0,Lost
+LD-1810,Mid-Market,Cold Outbound,21000.0,7,3,17,0,Lost
+LD-1811,Mid-Market,Partner Referral,25800.0,56,7,15,1,Lost
+LD-1812,Startup,Inbound Demo,4200.0,42,10,7,0,Lost
+LD-1813,Startup,Inbound Demo,3900.0,70,1,14,1,Lost
+LD-1814,Startup,Cold Outbound,2900.0,49,8,7,0,Lost
+LD-1815,Mid-Market,Cold Outbound,20600.0,7,5,16,1,Lost
+LD-1816,Startup,Partner Referral,4500.0,12,4,10,0,Won
+LD-1817,Startup,Partner Referral,6100.0,21,5,18,1,Won
+LD-1818,Mid-Market,Cold Outbound,28400.0,75,7,15,0,Lost
+LD-1819,Startup,Partner Referral,2200.0,62,3,12,0,Lost
+LD-1820,Startup,Webinar,4500.0,29,6,18,1,Won
+LD-1821,Startup,Partner Referral,6700.0,43,7,10,1,Won
+LD-1822,Enterprise,Partner Referral,110800.0,53,4,5,1,Won
+LD-1823,Enterprise,Cold Outbound,106300.0,81,1,14,1,Won
+LD-1824,Mid-Market,Cold Outbound,24500.0,40,8,12,1,Lost
+LD-1825,Startup,Inbound Demo,5900.0,43,5,12,1,Won
+LD-1826,Startup,Cold Outbound,4100.0,52,5,2,1,Won
+LD-1827,Mid-Market,Cold Outbound,19200.0,51,9,4,0,Lost
+LD-1828,Startup,Inbound Demo,5500.0,48,6,19,0,Won
+LD-1829,Enterprise,Cold Outbound,122300.0,75,4,24,1,Won
+LD-1830,Enterprise,Partner Referral,104900.0,7,6,9,0,Won
+LD-1831,Enterprise,Partner Referral,97500.0,28,2,21,1,Won
+LD-1832,Enterprise,Inbound Demo,60500.0,60,0,12,0,Lost
+LD-1833,Enterprise,Partner Referral,99400.0,34,6,10,0,Won
+LD-1834,Mid-Market,Cold Outbound,33200.0,52,2,11,1,Lost
+LD-1835,Mid-Market,Cold Outbound,37000.0,52,4,4,0,Lost
+LD-1836,Enterprise,Inbound Demo,90200.0,57,5,4,1,Lost
+LD-1837,Startup,Webinar,5200.0,31,8,10,1,Won
+LD-1838,Enterprise,Cold Outbound,89600.0,43,11,4,1,Lost
+LD-1839,Mid-Market,Partner Referral,18800.0,22,4,7,0,Won
+LD-1840,Mid-Market,Cold Outbound,33000.0,61,7,4,1,Won
+LD-1841,Startup,Cold Outbound,7400.0,42,2,6,1,Lost
+LD-1842,Mid-Market,Inbound Demo,24900.0,31,5,15,1,Won
+LD-1843,Enterprise,Cold Outbound,84600.0,20,5,17,1,Won
+LD-1844,Mid-Market,Cold Outbound,24500.0,52,2,12,1,Lost
+LD-1845,Mid-Market,Inbound Demo,25600.0,59,5,6,1,Lost
+LD-1846,Mid-Market,Cold Outbound,29800.0,40,7,13,1,Lost
+LD-1847,Enterprise,Cold Outbound,92100.0,29,7,17,1,Won
+LD-1848,Enterprise,Inbound Demo,111400.0,30,0,11,0,Lost
+LD-1849,Startup,Cold Outbound,4900.0,40,1,11,1,Lost
+LD-1850,Enterprise,Inbound Demo,92200.0,38,6,8,0,Lost
+LD-1851,Startup,Cold Outbound,4500.0,45,4,9,0,Lost
+LD-1852,Startup,Cold Outbound,6300.0,46,8,10,1,Won
+LD-1853,Mid-Market,Inbound Demo,25800.0,53,6,11,0,Won
+LD-1854,Mid-Market,Inbound Demo,31200.0,24,6,9,1,Lost
+LD-1855,Startup,Inbound Demo,4800.0,32,2,6,0,Lost
+LD-1856,Startup,Cold Outbound,7000.0,62,4,13,0,Lost
+LD-1857,Enterprise,Cold Outbound,121100.0,41,2,6,1,Lost
+LD-1858,Startup,Cold Outbound,7300.0,14,9,10,0,Won
+LD-1859,Startup,Cold Outbound,4800.0,38,1,11,0,Lost
+LD-1860,Startup,Partner Referral,4100.0,42,7,13,0,Won
+LD-1861,Startup,Webinar,7500.0,65,10,8,1,Lost
+LD-1862,Mid-Market,Inbound Demo,23800.0,45,8,18,0,Won
+LD-1863,Mid-Market,Partner Referral,25800.0,44,5,2,0,Lost
+LD-1864,Startup,Cold Outbound,5900.0,77,6,13,0,Lost
+LD-1865,Enterprise,Inbound Demo,52900.0,34,2,11,1,Lost
+LD-1866,Mid-Market,Cold Outbound,30000.0,40,6,9,1,Won
+LD-1867,Enterprise,Cold Outbound,62800.0,47,8,11,1,Won
+LD-1868,Startup,Inbound Demo,4600.0,40,7,8,1,Won
+LD-1869,Mid-Market,Cold Outbound,22000.0,35,6,11,0,Lost
+LD-1870,Mid-Market,Partner Referral,25000.0,51,10,10,0,Lost
+LD-1871,Startup,Cold Outbound,3500.0,64,4,6,1,Lost
+LD-1872,Mid-Market,Inbound Demo,22900.0,43,6,13,1,Won
+LD-1873,Enterprise,Webinar,65800.0,97,7,10,1,Lost
+LD-1874,Startup,Cold Outbound,6600.0,13,0,14,1,Won
+LD-1875,Mid-Market,Webinar,16800.0,57,2,4,0,Lost
+LD-1876,Enterprise,Inbound Demo,102200.0,32,6,2,0,Won
+LD-1877,Mid-Market,Cold Outbound,22100.0,39,4,14,0,Lost
+LD-1878,Mid-Market,Webinar,25200.0,56,10,9,0,Lost
+LD-1879,Startup,Inbound Demo,8000.0,90,1,10,1,Lost
+LD-1880,Startup,Inbound Demo,5000.0,68,0,14,0,Lost
+LD-1881,Mid-Market,Cold Outbound,25800.0,83,8,8,1,Won
+LD-1882,Mid-Market,Partner Referral,17200.0,21,9,10,1,Won
+LD-1883,Mid-Market,Cold Outbound,26800.0,72,8,9,1,Won
+LD-1884,Startup,Cold Outbound,5000.0,14,5,22,1,Won
+LD-1885,Enterprise,Cold Outbound,101400.0,54,8,12,1,Won
+LD-1886,Mid-Market,Partner Referral,20800.0,73,4,7,0,Won
+LD-1887,Startup,Cold Outbound,4400.0,55,2,5,0,Lost
+LD-1888,Enterprise,Inbound Demo,98800.0,54,5,2,1,Lost
+LD-1889,Mid-Market,Cold Outbound,29700.0,26,0,5,0,Lost
+LD-1890,Startup,Partner Referral,2000.0,42,3,7,0,Lost
+LD-1891,Startup,Partner Referral,3000.0,7,5,12,0,Won
+LD-1892,Startup,Webinar,6700.0,64,2,13,1,Lost
+LD-1893,Mid-Market,Partner Referral,25700.0,31,2,15,1,Lost
+LD-1894,Startup,Partner Referral,2800.0,40,8,4,1,Won
+LD-1895,Enterprise,Partner Referral,92400.0,31,2,8,1,Won
+LD-1896,Enterprise,Inbound Demo,80500.0,59,1,4,1,Lost
+LD-1897,Mid-Market,Cold Outbound,19300.0,27,9,12,1,Lost
+LD-1898,Mid-Market,Cold Outbound,23000.0,65,1,17,1,Won
+LD-1899,Mid-Market,Cold Outbound,16400.0,26,8,15,1,Won
+LD-1900,Startup,Cold Outbound,4100.0,63,10,9,0,Lost
+LD-1901,Startup,Cold Outbound,6600.0,77,6,19,1,Won
+LD-1902,Enterprise,Inbound Demo,58700.0,38,7,12,1,Won
+LD-1903,Startup,Inbound Demo,5500.0,90,0,11,0,Lost
+LD-1904,Enterprise,Cold Outbound,59300.0,45,4,3,0,Won
+LD-1905,Mid-Market,Cold Outbound,22000.0,51,6,14,1,Lost
+LD-1906,Mid-Market,Partner Referral,26500.0,28,5,17,1,Won
+LD-1907,Startup,Cold Outbound,7600.0,7,5,10,1,Won
+LD-1908,Enterprise,Inbound Demo,65200.0,34,1,12,0,Lost
+LD-1909,Enterprise,Webinar,90000.0,53,5,17,1,Won
+LD-1910,Mid-Market,Inbound Demo,26500.0,29,5,12,0,Lost
+LD-1911,Startup,Cold Outbound,4400.0,32,6,11,1,Lost
+LD-1912,Startup,Cold Outbound,5800.0,61,5,9,1,Won
+LD-1913,Mid-Market,Cold Outbound,18000.0,69,5,11,1,Won
+LD-1914,Mid-Market,Partner Referral,30400.0,63,6,17,1,Won
+LD-1915,Enterprise,Partner Referral,107000.0,27,3,11,1,Won
+LD-1916,Startup,Cold Outbound,5800.0,62,2,11,1,Lost
+LD-1917,Startup,Partner Referral,6200.0,43,0,17,0,Lost
+LD-1918,Enterprise,Inbound Demo,93000.0,7,9,6,0,Lost
+LD-1919,Enterprise,Partner Referral,80200.0,63,2,10,1,Lost
+LD-1920,Mid-Market,Inbound Demo,25500.0,35,0,2,1,Won
+LD-1921,Startup,Webinar,6500.0,55,3,4,0,Lost
+LD-1922,Startup,Webinar,4500.0,55,0,13,0,Lost
+LD-1923,Mid-Market,Partner Referral,23900.0,68,6,2,1,Won
+LD-1924,Enterprise,Inbound Demo,109600.0,74,3,9,1,Won
+LD-1925,Startup,Partner Referral,5200.0,32,5,9,1,Lost
+LD-1926,Mid-Market,Cold Outbound,19200.0,18,0,15,0,Won
+LD-1927,Startup,Inbound Demo,6100.0,72,9,14,1,Lost
+LD-1928,Enterprise,Partner Referral,88400.0,21,7,14,0,Lost
+LD-1929,Startup,Inbound Demo,3300.0,54,10,18,1,Lost
+LD-1930,Startup,Partner Referral,6300.0,55,3,15,1,Lost
+LD-1931,Startup,Inbound Demo,5300.0,43,5,9,1,Won
+LD-1932,Mid-Market,Cold Outbound,20800.0,56,4,4,0,Lost
+LD-1933,Startup,Cold Outbound,4300.0,37,5,20,1,Lost
+LD-1934,Startup,Inbound Demo,5600.0,25,3,9,0,Lost
+LD-1935,Enterprise,Cold Outbound,129300.0,55,3,2,1,Lost
+LD-1936,Enterprise,Cold Outbound,80800.0,17,0,14,1,Lost
+LD-1937,Startup,Cold Outbound,5700.0,39,5,8,1,Lost
+LD-1938,Mid-Market,Inbound Demo,28300.0,43,1,17,0,Lost
+LD-1939,Startup,Cold Outbound,4100.0,39,9,10,1,Won
+LD-1940,Mid-Market,Inbound Demo,26700.0,27,3,17,1,Lost
+LD-1941,Enterprise,Inbound Demo,139500.0,53,8,19,1,Won
+LD-1942,Enterprise,Webinar,98900.0,33,5,16,1,Lost
+LD-1943,Enterprise,Cold Outbound,121800.0,68,1,15,0,Lost
+LD-1944,Mid-Market,Cold Outbound,26100.0,38,4,15,1,Lost
+LD-1945,Enterprise,Inbound Demo,65600.0,7,8,8,1,Lost
+LD-1946,Enterprise,Cold Outbound,107400.0,56,4,11,1,Won
+LD-1947,Enterprise,Partner Referral,104700.0,59,2,16,1,Lost
+LD-1948,Startup,Cold Outbound,4900.0,38,1,13,1,Lost
+LD-1949,Mid-Market,Partner Referral,28500.0,20,9,3,1,Won
+LD-1950,Startup,Cold Outbound,6200.0,33,7,5,1,Lost
+LD-1951,Startup,Inbound Demo,5000.0,62,3,13,1,Lost
+LD-1952,Enterprise,Inbound Demo,88100.0,39,7,9,0,Lost
+LD-1953,Startup,Inbound Demo,4600.0,31,5,12,1,Won
+LD-1954,Mid-Market,Inbound Demo,22200.0,61,5,7,1,Lost
+LD-1955,Startup,Inbound Demo,6800.0,44,10,9,0,Lost
+LD-1956,Mid-Market,Cold Outbound,22700.0,23,3,12,0,Lost
+LD-1957,Mid-Market,Webinar,25700.0,45,9,11,0,Lost
+LD-1958,Startup,Cold Outbound,5600.0,71,4,16,1,Lost
+LD-1959,Enterprise,Cold Outbound,76700.0,81,2,8,1,Lost
+LD-1960,Startup,Cold Outbound,5100.0,7,9,9,1,Won
+LD-1961,Enterprise,Partner Referral,76600.0,90,4,12,1,Won
+LD-1962,Enterprise,Cold Outbound,90900.0,79,2,15,0,Lost
+LD-1963,Enterprise,Webinar,72900.0,53,6,5,1,Lost
+LD-1964,Mid-Market,Inbound Demo,17300.0,34,6,16,0,Lost
+LD-1965,Enterprise,Inbound Demo,71100.0,43,0,18,0,Lost
+LD-1966,Startup,Partner Referral,2000.0,7,7,12,0,Lost
+LD-1967,Startup,Partner Referral,7600.0,37,4,25,0,Won
+LD-1968,Startup,Cold Outbound,2600.0,40,4,15,0,Lost
+LD-1969,Mid-Market,Webinar,36100.0,56,1,12,1,Won
+LD-1970,Mid-Market,Webinar,26200.0,28,9,10,1,Won
+LD-1971,Mid-Market,Inbound Demo,23400.0,21,5,14,0,Lost
+LD-1972,Enterprise,Cold Outbound,82900.0,45,6,3,1,Won
+LD-1973,Mid-Market,Inbound Demo,18700.0,59,7,15,1,Lost
+LD-1974,Startup,Cold Outbound,6300.0,50,4,9,1,Won
+LD-1975,Enterprise,Inbound Demo,118000.0,67,2,8,1,Won
+LD-1976,Mid-Market,Webinar,17800.0,35,4,13,0,Lost
+LD-1977,Startup,Inbound Demo,4600.0,50,6,9,1,Lost
+LD-1978,Enterprise,Partner Referral,102500.0,35,2,4,0,Lost
+LD-1979,Enterprise,Webinar,92000.0,69,4,14,1,Lost
+LD-1980,Enterprise,Cold Outbound,119100.0,44,3,14,1,Lost
+LD-1981,Startup,Inbound Demo,4300.0,60,5,6,1,Won
+LD-1982,Enterprise,Partner Referral,114500.0,47,8,14,0,Won
+LD-1983,Mid-Market,Inbound Demo,14800.0,87,2,11,0,Lost
+LD-1984,Mid-Market,Webinar,33000.0,45,1,11,0,Lost
+LD-1985,Startup,Cold Outbound,5200.0,42,1,13,1,Lost
+LD-1986,Startup,Cold Outbound,3800.0,45,0,15,1,Lost
+LD-1987,Mid-Market,Webinar,9500.0,47,3,13,0,Lost
+LD-1988,Startup,Webinar,3700.0,46,8,10,0,Lost
+LD-1989,Startup,Cold Outbound,5900.0,37,6,8,0,Won
+LD-1990,Enterprise,Inbound Demo,70100.0,70,3,15,1,Lost
+LD-1991,Enterprise,Inbound Demo,115600.0,25,5,17,0,Won
+LD-1992,Startup,Webinar,3200.0,39,8,15,1,Won
+LD-1993,Enterprise,Inbound Demo,127200.0,45,5,15,0,Lost
+LD-1994,Mid-Market,Partner Referral,13400.0,60,4,18,1,Won
+LD-1995,Startup,Inbound Demo,6800.0,44,3,17,1,Won
+LD-1996,Startup,Inbound Demo,9100.0,38,7,8,1,Won
+LD-1997,Startup,Partner Referral,3900.0,38,2,9,0,Lost
+LD-1998,Enterprise,Cold Outbound,109700.0,7,0,15,1,Lost
+LD-1999,Mid-Market,Inbound Demo,24500.0,52,2,7,1,Lost
