@@ -71,4 +71,4 @@ else:
     st.error("Critical churn probability. The deal has likely stalled. Assess resource allocation before continuing pursuit.")
 
 st.markdown("---")
-st.info("💡 **What-If Analysis:** Try moving the 'Days in Pipeline' slider past 90 days, or change 'Decision Maker Engaged' to 'Yes', and watch how the predicted outcomes shift in real-time.")
+st.info("**What-If Analysis:** Try moving the 'Days in Pipeline' slider past 90 days, or change 'Decision Maker Engaged' to 'Yes', and watch how the predicted outcomes shift in real-time.")
