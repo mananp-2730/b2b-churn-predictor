@@ -5,7 +5,7 @@ import joblib
 # 1. Page Setup
 st.set_page_config(page_title="B2B Churn Predictor", page_icon="📊", layout="wide")
 
-st.title("B2B Pipeline & Churn Predictor 📊")
+st.title("B2B Pipeline & Churn Predictor")
 st.write("An interactive 'What-If' simulator to evaluate active leads and predict pipeline outcomes.")
 st.markdown("---")
 
